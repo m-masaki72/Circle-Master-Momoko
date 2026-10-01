@@ -1,6 +1,6 @@
 # Circle M@ster Momoko
 
-[プレイはこちらから](https://m-masaki72.github.io/Circle-Master-Momoko/)
+[プレイはこちらから](https://momoko.morilab-garage.com/)
 
 ![ScreenShot](ScreenShot.png)
 
