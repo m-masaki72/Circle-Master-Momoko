@@ -28,3 +28,8 @@
 ## ライセンス
 
 [LICENSE](LICENSE) ファイルをご確認ください。
+
+## 紹介ページ
+
+- [制作物ページ（Mori Lab）](https://morilab-garage.com/projects/circle-master-momoko/)
+- [開発ブログ記事（はてなブログ）](https://mementomori7272.hatenablog.com/entry/2026/01/19/175950)
